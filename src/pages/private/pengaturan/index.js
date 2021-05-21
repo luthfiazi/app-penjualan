@@ -3,7 +3,7 @@ import React from "react";
 import { Switch, Route, Redirect} from 'react-router-dom';
 
 
-// komponent halaman Pengguna
+// komponent halaman Pengaturan
 
 import Pengguna from './pengguna'
 import Toko from './toko'

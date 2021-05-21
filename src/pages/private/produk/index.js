@@ -13,3 +13,5 @@ function Produk () {
         </Switch> 
     )
 }
+
+export default Produk
